@@ -4,7 +4,7 @@ https://chatgpt.com/share/dd5b078a-1324-4327-bf8a-164ee25579d6
 Build a simple Banking app with the following features:
 
 There will be two types of users:
-Admin
+Admin   
 Customer
 When the main script runs, the user will see two options:
 Login
